@@ -58,7 +58,7 @@ const FishList = {
         m(Table, {
           headers: [
             'Serial Number',
-            'Species',
+            'Category',
             'Added',
             'Updated',
             'Updates'
