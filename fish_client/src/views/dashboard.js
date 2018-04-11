@@ -23,7 +23,7 @@ const Dashboard = {
     return [
       m('.header.text-center.mb-4',
         m('h4', 'Welcome To'),
-        m('h1.mb-3', 'Sawtooth POC (Tami) - WIP'),
+        m('h1.mb-3', 'Supply Chain POC (Tami)'),
         m('h5',
           m('em',
             'Powered by ',
